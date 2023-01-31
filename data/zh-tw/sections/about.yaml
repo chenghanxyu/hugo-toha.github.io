@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: 關於
   id: about
   enable: true
   weight: 1
@@ -8,10 +8,10 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Digital Marketing Specialist
+designation: 數位行銷專員
 # your company information
 company:
-  name: Highspeed Digital Co., Ltd.
+  name: 來思比科技
   url: "https://www.hdc-tw.com"
 
 # your resume. this file path should be relative to you "static" directory
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: '目前於知名掃地機器人與空氣清淨機等品牌台灣總代理商擔任數位行銷，主要負責公司數位廣告投放策略擬定、年度廣告預算規劃、執行與優化，並分析相關數據、製作 Google Datastudio 報表，以協助提升整體廣告效益 10%。'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -51,7 +51,7 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Portfolio"
+- title: "作品集"
   url: "files/portfolio.pdf"
 
 # Show your badges

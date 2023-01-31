@@ -1,5 +1,5 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/chenghanxyu/hugo-toha.github.io
 
 go 1.19
 
-require github.com/hugo-toha/toha/v4 v4.0.0-20230127171959-e5fcc95e8b8d // indirect
+require github.com/chenghanxyu/toha/v4 v4.0.0-20230129142600-060626326a19 // indirect

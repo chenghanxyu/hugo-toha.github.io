@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: 技能
   id: skills
   enable: true
   weight: 2
@@ -13,31 +13,31 @@ section:
 skills:
 - name: Facebook Ads
   logo: /images/sections/skills/meta.svg
-  summary: "Proficient in using Facebook Ads for advertising and planning appropriate budgets and placement strategies based on objectives."
+  summary: "能熟練使用 Facebook Ads 進行廣告投放，並依據目標規劃合適預算與投放策略。"
 
 - name: Google Ads
   logo: /images/sections/skills/google_ads.svg
-  summary: "Proficient in using Google Ads for advertising and planning appropriate budgets and placement strategies based on objectives."
+  summary: "能熟練使用 Google Ads 進行廣告投放，並依據目標規劃合適預算與投放策略。"
   url: "https://skillshop.exceedlms.com/student/award/6ATPfhrfR19LnRsqmTxTNJ8A"
 
 - name: Google Analytics
   logo: /images/sections/skills/google_analytics.svg
-  summary: "Ability to analyse website data through Google Analytics and explore the information available to use as a reference when developing marketing strategies."
+  summary: "能透過 Google Analytics 分析網站數據，並從中探勘可用資訊作為行銷策略擬定參考。"
   url: "https://skillshop.exceedlms.com/student/award/6ATPfhrfR19LnRsqmTxTNJ8A"
 
 - name: Looker Studio
   logo: /images/sections/skills/looker_studio.svg
-  summary: "Ability to use Looker Studio to stream marketing data and create reports to help analyse marketing data, click to view sample reports."
+  summary: "能透過 Looker Studio 串接行銷數據，並彙整製作報表，協助行銷數據分析，點擊查看報表範本。"
   url: "https://www.docker.com/"
 
 - name: Google Tag Manager
   logo: /images/sections/skills/google_tag_manager.svg
-  summary: "Ability to schedule marketing tracking nodes and use Google Tag Manager to install tracking code for data collection."
+  summary: "能規劃行銷追蹤節點，並熟練運用 Google Tag Manager 安裝追蹤代碼，以利數據追蹤。"
 
 - name: Adobe Illustrator
   logo: /images/sections/skills/illustrator.svg
-  summary: "Ability to use Adobe Illustrator to create marketing materials."
+  summary: "能使用 Adobe Illustrator 製作行銷用素材。"
 
 - name: Adobe Premiere
   logo: /images/sections/skills/premiere.svg
-  summary: "Ability to edit marketing films using Adobe Premiere."
+  summary: "能使用 Adobe Premiere 剪輯行銷用影片。"

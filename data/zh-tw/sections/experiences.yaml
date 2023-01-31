@@ -1,0 +1,89 @@
+# section information
+section:
+  name: 工作經歷
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: 來思比科技股份有限公司（iRobot、Blueair）
+    url: "https://www.hdc-tw.com/"
+    location: 台北市．中山區
+    overview: 公司為知名掃地機器人與空氣清淨機等品牌台灣總代理，主要負責公司數位廣告投放策略擬定、年度廣告預算規劃、執行與優化。
+  positions:
+  - designation: 數位行銷專員
+    start: Nov 2021
+    responsibilities:
+    - 擬定行銷策略、行銷文案發想及規劃、活動宣傳
+    - 線上線下通路數位廣告策略擬定、年度預算規劃、執行與監控優化
+    - Facebook、Google、Yahoo! 廣告投放
+    - 內部團隊溝通、外部廠商聯繫與協調
+    - 廣告數據分析、Looker Studio 製作
+
+- company:
+    name: 有點意思科技股份有限公司（HiSKIO）
+    url: "https://hiskio.com/"
+    location: 新北市．三重區
+    overview: 公司為線上課程平台，主要負責平台課程企劃銷售、活動行銷與廣告投放，同時分析銷售與用戶數據、協助會員黏著度經營。
+  positions:
+  - designation: 課程行銷企劃
+    start: Jul 2020
+    end: Nov 2021
+    responsibilities:
+    - 擬定行銷策略、行銷文案發想及規劃、活動宣傳
+    - Facebook、Google 廣告投放
+    - 講師溝通、課程包裝、議題擬定、會員經營
+    - Google Analytics 數據分析、Google Tag Manager 規劃設定
+
+- company:
+    name: 台灣行動影城股份有限公司
+    url: "https://smartcinema.com.tw/"
+    location: 台北市．內湖區
+    overview: 公司為線上影音 OTT 平台，主要負責 APP 行銷推廣及線上活動策展執行。
+  positions:
+  - designation: 行銷企劃
+    start: Apr 2020
+    end: Jul 2020
+    responsibilities:
+    - 擬定行銷策略、文案發想及規劃、電影宣傳
+    - 線上活動、App 推廣、In App 活動策展及執行
+    - AppsFlyer 數據追蹤、Google Analytics 數據分析
+    - Facebook、Google 廣告投放
+    - KOL、合作廠商溝通
+
+- company:
+    name: 流線傳媒股份有限公司（TechOrange）
+    url: "https://buzzorange.com/techorange/"
+    location: 台北市．大安區
+    overview: 公司為線上媒體 TechOrange，主要負責擬定行銷策略與客戶提案溝通，並執行後續專案管理同時掌握專案時程、成效、成本控管與風險控制，專案執行過中持續與內部團隊溝通與整合管理，並與外部廠商聯繫與協調。<br>任職期間已完成數十個專案，服務客戶包括中國信託、台灣微軟、趨勢科技、工研院等知名企業、單位，其中更包括數十場 100 - 200 人以上專業論壇活動宣傳及招生。
+  positions:
+  - designation: 專案企劃
+    start: Mar 2018
+    end: Mar 2020
+    responsibilities:
+    - 擬定行銷策略與客戶提案溝通
+    - 專案管理、專案時程、成效、成本控管與風險控制
+    - 內部團隊溝通與整合管理、外部廠商聯繫與協調
+    - Facebook、Google 廣告投放、行銷文案發想及規劃、活動宣傳
+    - Google Analytics 數據分析、Google Tag Manager 規劃設定、Google Data Studio 製作
+    - 執行公司會員計畫
+
+- company:
+    name: 昂圖股份有限公司（flyingV）
+    url: "https://www.flyingv.cc/"
+    location: 台北市．中山區
+    overview: 公司為國內知名募資平台，主要協助募資專案優化及執行。
+  positions:
+  - designation: 專案顧問（實習）
+    start: Jan 2017
+    end: Jun 2017
+    responsibilities:
+    - 募資專案優化、執行及推廣（實習期間協助近 10 個募資專案）
+    - 與客戶溝通、協助完成提案企劃
+    - 募資專案 Facebook 數位廣告投放
+    - 募資專案宣傳文案發想及執行

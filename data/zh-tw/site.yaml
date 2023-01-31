@@ -7,12 +7,12 @@ You can modify or distribute the theme without requiring any permission from the
 However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: This is resume of Hank Yu.
+description: 這裡是余承翰個人網站，這裡有我個人的自我介紹與聯繫資訊。
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: Blog
+- name: 部落格
   url: https://yuslife.cc/
 # - name: Docs
 #   url: https://toha-guides.netlify.app/posts/
@@ -24,8 +24,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Hank's Resume
+  title: 余承翰 Hank Yu 個人網站
   type: website
-  description: This is resume of Hank Yu.
+  description: 這裡是余承翰個人網站，這裡有我個人的自我介紹與聯繫資訊。
   image: images/author/hank.png
   url: https://resume.yuslife.cc

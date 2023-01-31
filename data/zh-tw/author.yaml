@@ -1,8 +1,8 @@
 # some information about you
-name: "Hank Yu"
+name: "余承翰"
 nickname: "Hank"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "👋 Hi, I am"
+greeting: "Hi 👋 我是 "
 image: "images/author/hank.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -13,6 +13,8 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Marketer
-  - I am focus on Marketing and Ads
-  - Check my resume below
+  - 我是行銷人
+  - 專精於數位行銷與廣告投放
+  - 包含策略擬定、預算規劃
+  - 往下查看我的經歷
+  - 以及聯繫資訊

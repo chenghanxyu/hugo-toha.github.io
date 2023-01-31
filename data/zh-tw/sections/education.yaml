@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: 學歷
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -27,11 +27,11 @@ degrees:
 #     url: "#"
 #   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
 #     url: "#"
-- name: National Taiwan Ocean University
+- name: 國立臺灣海洋大學
   icon: fa-graduation-cap
   timeframe: 2013-2017
   institution:
-    name: Department of Shipping and Transportation Management
+    name: 航運管理學系
     url: "https://www.ntou.edu.tw/"
   # grade: #(optional)
   #   scale: CGPA
@@ -60,9 +60,9 @@ degrees:
   # - title: Fusce eu augue ut odio porttitor pulvinar.
   #   url: "#"
   extracurricularActivities: #(optional)
-  - "Fourth year: Internship at fundraising platform flyingV, project management and digital marketing inspiration."
-  - "Junior year: Joined the Departmental Club to serve students in the department, responsible for promoting departmental activities and photography."
-  - "Second year: Participated in the Summer Youth Community Work-Study Programme in the summer, promoting local culture in the community."
+  - 大四：募資平台 flyingV 實習，專案管理及數位行銷的啟蒙。
+  - 大三：加入系學會服務系上同學，主責系會活動宣傳及攝影。
+  - 大二：暑期參與青年暑期社區工讀計畫，深入社區推廣在地文化
 # - name: Higher Secondary School Certificate
 #   icon: fa-university
 #   timeframe: 2010-2012
@@ -78,11 +78,11 @@ degrees:
 #   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
 #   - Duis sed massa feugiat, ornare justo et, aliquam est.
 #   - Pellentesque ut fringilla magna.
-- name: Taipei Municipal Chien Kuo High School
+- name: 台北市立建國高級中學
   icon: fa-school
   timeframe: 2010-2013
   institution:
-    name: General Education
+    name: 普通科
     url: "https://www2.ck.tp.edu.tw/"
   # grade: #(optional)
   #   scale: GPA
