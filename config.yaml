@@ -18,7 +18,7 @@ module:
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  zh-tw:
+  zh:
     languageName: 中文
     weight: 1
   en:
@@ -29,7 +29,7 @@ languages:
   #   weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
-DefaultContentLanguage: zh-tw
+DefaultContentLanguage: zh
 
 # Allow raw html in markdown file
 markup:
@@ -195,7 +195,7 @@ params:
       flagOverwrites:
         - languageCode: en
           countryCode: us
-        - languageCode: zh-tw
+        - languageCode: zh
           countryCode: tw
 
     # Enable this to use `embed-pdf` shortcode.
