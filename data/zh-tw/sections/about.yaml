@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: 數位行銷專員
+designation: 數位行銷
 # your company information
 company:
   name: 來思比科技
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: '目前於知名掃地機器人與空氣清淨機等品牌台灣總代理商擔任數位行銷，主要負責公司數位廣告投放策略擬定、年度廣告預算規劃、執行與優化，並分析相關數據、製作 Google Datastudio 報表，以協助提升整體廣告效益 10%。'
+summary: '我從事數位行銷工作已有約 5 年經驗，主要負責數位廣告策略擬定、預算規劃與執行，並製作 Looker Studio 報表、分析相關數據，以協助優化廣告效益。<br>目前於知名掃地機器人與空氣清淨機等品牌台灣總代理商任職，期間協助提升廣告效益近 10%。'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -50,18 +50,18 @@ socialLinks:
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
-resourceLinks:
-- title: "作品集"
-  url: "files/portfolio.pdf"
+# resourceLinks:
+# - title: "作品集"
+#   url: "#projects"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-# badges:
-# - type: certification
-#   name: Certified Kubernetes Security Specialist
-#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+badges:
+- type: certification
+  name: Google Ads 搜尋廣告認證
+  url: "https://skillshop.credential.net/e6779dd4-1487-443d-bf4b-74a6ebbfd0fc"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67176333"
 
 # - type: certification
 #   name: Istio and IBM Cloud Kubernetes Service

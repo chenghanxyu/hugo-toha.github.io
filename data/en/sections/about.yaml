@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "I'm a marketer with 5 years of work experience, responsible for digital advertising strategy development, budget planning and execution, as well as creating Looker Studio reports and analysing relevant data to optimise advertising effectiveness.<br>I currently work for the Taiwanese distributor of well-known brands such as robot vacuum and air purifiers, during which time I have helped increase advertising effectiveness by almost 10%."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -51,17 +51,17 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Portfolio"
+- title: "Portfolio"
   url: "files/portfolio.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-# badges:
-# - type: certification
-#   name: Certified Kubernetes Security Specialist
-#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+badges:
+- type: certification
+  name: Google Ads Search Certification
+  url: "https://skillshop.credential.net/e6779dd4-1487-443d-bf4b-74a6ebbfd0fc"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67176333"
 
 # - type: certification
 #   name: Istio and IBM Cloud Kubernetes Service

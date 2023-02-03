@@ -18,17 +18,15 @@ skills:
 - name: Google Ads
   logo: /images/sections/skills/google_ads.svg
   summary: "能熟練使用 Google Ads 進行廣告投放，並依據目標規劃合適預算與投放策略。"
-  url: "https://skillshop.exceedlms.com/student/award/6ATPfhrfR19LnRsqmTxTNJ8A"
 
 - name: Google Analytics
   logo: /images/sections/skills/google_analytics.svg
   summary: "能透過 Google Analytics 分析網站數據，並從中探勘可用資訊作為行銷策略擬定參考。"
-  url: "https://skillshop.exceedlms.com/student/award/6ATPfhrfR19LnRsqmTxTNJ8A"
 
 - name: Looker Studio
   logo: /images/sections/skills/looker_studio.svg
-  summary: "能透過 Looker Studio 串接行銷數據，並彙整製作報表，協助行銷數據分析，點擊查看報表範本。"
-  url: "https://www.docker.com/"
+  summary: "能透過 Looker Studio 串接行銷數據，並彙整製作報表，協助行銷數據分析。"
+  # url: "https://www.docker.com/"
 
 - name: Google Tag Manager
   logo: /images/sections/skills/google_tag_manager.svg

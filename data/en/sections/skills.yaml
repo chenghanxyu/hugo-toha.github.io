@@ -18,17 +18,15 @@ skills:
 - name: Google Ads
   logo: /images/sections/skills/google_ads.svg
   summary: "Proficient in using Google Ads for advertising and planning appropriate budgets and placement strategies based on objectives."
-  url: "https://skillshop.exceedlms.com/student/award/6ATPfhrfR19LnRsqmTxTNJ8A"
 
 - name: Google Analytics
   logo: /images/sections/skills/google_analytics.svg
   summary: "Ability to analyse website data through Google Analytics and explore the information available to use as a reference when developing marketing strategies."
-  url: "https://skillshop.exceedlms.com/student/award/6ATPfhrfR19LnRsqmTxTNJ8A"
 
 - name: Looker Studio
   logo: /images/sections/skills/looker_studio.svg
-  summary: "Ability to use Looker Studio to stream marketing data and create reports to help analyse marketing data, click to view sample reports."
-  url: "https://www.docker.com/"
+  summary: "Ability to use Looker Studio to stream marketing data and create reports to help analyse marketing data."
+  # url: "https://www.docker.com/"
 
 - name: Google Tag Manager
   logo: /images/sections/skills/google_tag_manager.svg

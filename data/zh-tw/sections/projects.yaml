@@ -1,10 +1,10 @@
 # section information
 section:
-  name: Projects
+  name: 作品集
   id: projects
   enable: true
   weight: 5
-  showOnNavbar: false
+  showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -12,53 +12,73 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: 行銷規劃
+  filter: "行銷規劃"
+- name: 數據分析
+  filter: "數據分析"
+- name: 網頁製作
+  filter: "網頁製作"
+- name: 興趣
+  filter: "興趣"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: 程式課程商說規劃
+  logo: /images/sections/projects/looker_studio.svg
+  role: 行銷企劃
+  timeline: "HiSKIO 任職時期"
+  # repo: https://github.com/hossainemruz/toha
+  url: "https://hiskio.com/courses/568/about"
+  summary: 將生硬程式轉化為易懂行銷文字，成功創造課程銷售。
+  tags: ["行銷規劃","商說文案"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+- name: 拼圖遊戲
+  # logo: /images/sections/projects/tensorflow.png
+  role: 行銷企劃
+  timeline: "行動電影院任職時期"
+  # repo: https://github.com/tensorflow/tensorflow
+  url: "https://collection.yuslife.cc/puzzle/"
+  summary: 以拼圖遊戲規劃活動，時限內完成拼圖即可獲得線上電影兌換券。
+  tags: ["網頁製作", "行銷規劃", "視覺設計"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Looker Studio 範本
+  logo: /images/sections/projects/looker_studio.svg
+  role: 行銷企劃
+  timeline: "2018 - 至今"
+  # repo: https://github.com/hossainemruz/toha
+  url: "https://lookerstudio.google.com/s/rXernNdEjHc"
+  summary: 透過 Looker Studio 串接行銷數據，並彙整製作報表，協助行銷數據分析，連結為自製報表範本（非真實數據）。
+  tags: ["數據分析","報表製作"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: 於是寫下生活筆記（部落格）
+  logo: /images/sections/projects/yuslife.png
+  role: 擁有者
+  timeline: "2018 - 至今"
+  url: "https://yuslife.cc"
+  summary: 除了作為生活記事的地方外，同時也作為自身行銷實驗場。
+  tags: ["網頁製作", "文章撰寫", "興趣"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: 輪盤抽獎活動
+  # logo: /images/sections/projects/kubernetes.png
+  role: 行銷企劃
+  timeline: "行動電影院任職時期"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://collection.yuslife.cc/roulette/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: 以輪盤遊戲規劃抽獎活動，完成抽獎可以獲得線上電影兌換券。
+  tags: ["網頁製作", "行銷規劃", "視覺設計"]
+
+- name: 每月電影精彩預覽
+  role: 行銷企劃
+  timeline: "行動電影院任職時期"
+  #repo: https://github.com/kelseyhightower/nocode
+  url: "https://collection.yuslife.cc/amp-stories/"
+  summary: 透過 Stories 技術，規劃當月電影精彩預覽，並策劃文案與電影簡介內容。
+  tags: ["網頁製作", "影片剪輯", "行銷規劃"]
+
+- name: 聖誕晚會拍攝及剪輯
+  role: 影片剪輯
+  timeline: "系會時期"
+  #repo: https://github.com/kelseyhightower/nocode
+  url: "https://www.youtube.com/watch?v=KBsLIFlnZPk"
+  summary: 大學時期為系上一年一度的聖誕晚會拍攝及剪輯活動預告片。
+  tags: [ "影片剪輯", "興趣"]
