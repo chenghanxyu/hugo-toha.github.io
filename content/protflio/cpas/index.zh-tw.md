@@ -11,3 +11,4 @@ tags: []
 categories: []
 
 ---
+以 Facebook、Google Ads 等廣告，協助電商部門推廣產品，達成轉換營收，ROAS 最高近 25。
