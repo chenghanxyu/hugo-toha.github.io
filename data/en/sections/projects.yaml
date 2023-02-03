@@ -8,23 +8,26 @@ section:
 buttons:
 - name: All
   filter: all
-- name: Professional
-  filter: professional
-- name: Academic
-  filter: academic
+- name: Marketing
+  filter: Marketing
+- name: Analysis
+  filter: Analysis
+- name: Websites
+  filter: Websites
 - name: Hobby
-  filter: hobby
+  filter: Hobby
 projects:
-- name: Kubernetes
+- name: Programming Course Copywriting
   logo: "/images/sections/projects/kubernetes.png"
-  role: Contributor
-  timeline: March 2018 - Present
-  repo: https://github.com/kubernetes/kubernetes
-  summary: Production-Grade Container Scheduling and Management.
+  role: Marketer
+  timeline: HiSKIO
+  repo: ''
+  summary: Turning a hard formula into an easy-to-understand marketing text for successful
+    course sales.
   tags:
-  - professional
-  - kubernetes
-  - cloud
+  - Marketing
+  - Commercial Copywriting
+  url: https://hiskio.com/courses/568/about
 - name: Tensorflow
   logo: "/images/sections/projects/tensorflow.png"
   role: Developer
