@@ -24,10 +24,8 @@ languages:
 DefaultContentLanguage: zh
 
 # Allow raw html in markdown file
-=======
     weight: "2"
 DefaultContentLanguage: zh
->>>>>>> 0d0772888a1d2065018c2cd2e54afa88fb0cb8ad
 markup:
   goldmark:
     renderer:
@@ -103,19 +101,16 @@ params:
     flags:
       enable: true
       flagOverwrites:
-<<<<<<< HEAD
         - languageCode: en
           countryCode: us
         - languageCode: zh
           countryCode: tw
 
     # Enable this to use `embed-pdf` shortcode.
-=======
       - languageCode: en
         countryCode: us
-      - languageCode: zh-tw
+      - languageCode: zh
         countryCode: tw
->>>>>>> 0d0772888a1d2065018c2cd2e54afa88fb0cb8ad
     embedpdf:
       enable: false
     flowchart:
