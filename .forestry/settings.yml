@@ -35,6 +35,7 @@ build:
   - HUGO_ENV=production
   - HUGO_ENABLEGITINFO=true
   preview_output_directory: public
+  install_dependencies_command: npm install
   preview_docker_image: forestryio/hugo:node16
   mount_path: "/srv"
   working_dir: "/srv"
