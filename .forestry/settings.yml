@@ -5,10 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: hugo-toha.github.io
+  path: data/zh-tw
   label: ZH
   create: all
-  match: data/zh-tw
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
