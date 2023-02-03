@@ -8,17 +8,17 @@ section:
 buttons:
 - name: All
   filter: all
-- name: Marketing
+- name: Marketings
   filter: Marketing
 - name: Analysis
   filter: Analysis
 - name: Websites
-  filter: Websites
-- name: Hobby
+  filter: Website
+- name: Hobbies
   filter: Hobby
 projects:
 - name: Programming Course Copywriting
-  logo: "/images/sections/projects/kubernetes.png"
+  logo: ''
   role: Marketer
   timeline: HiSKIO
   repo: ''
@@ -28,43 +28,23 @@ projects:
   - Marketing
   - Commercial Copywriting
   url: https://hiskio.com/courses/568/about
-- name: Tensorflow
-  logo: "/images/sections/projects/tensorflow.png"
-  role: Developer
-  timeline: Jun 2018 - Present
-  repo: https://github.com/tensorflow/tensorflow
-  summary: An Open Source Machine Learning Framework for Everyone.
+- name: Puzzle Game
+  logo: ''
+  role: Marketer
+  timeline: Smart Cinema Taiwan
+  repo: ''
+  summary: Plan an activity with a puzzle game and complete the puzzle within the
+    time limit to receive an online movie voucher.
   tags:
-  - professional
-  - machine-learning
-- name: A sample academic paper
-  role: Team Lead
-  timeline: Jan 2017 - Nov 2017
-  url: https://www.example.com
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius
-    reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium
-    distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+  - Design
+  - Marketing
+  - Website
+  url: https://collection.yuslife.cc/puzzle/
+- name: Looker Studio Demo
+  role: Marketer
+  timeline: 2018 - Present
+  url: https://lookerstudio.google.com/s/rXernNdEjHc
+  summary: Stream marketing data through Looker Studio and create reports to help
+    analyse marketing data, with links to custom report templates (not real data).
   tags:
-  - academic
-  - iot
-- name: Nocode
-  logo: "/images/sections/projects/no-code.png"
-  role: Nothing
-  timeline: Oct 2019 - Dec 2019
-  repo: https://github.com/kelseyhightower/nocode
-  summary: The best way to write secure and reliable applications. Write nothing;
-    deploy nowhere.
-  tags:
-  - hobby
-  - fun
-- name: Toha
-  logo: "/images/sections/projects/toha.png"
-  role: Owner
-  timeline: Jun 2019 - Present
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags:
-  - hobby
-  - hugo
-  - theme
-  - professional
+  - Analysis
