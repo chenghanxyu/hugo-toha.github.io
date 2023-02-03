@@ -23,8 +23,16 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
+  preview_env:
+  - HUGO_VERSION=0.109.0
+  - NODE_VERSION=v18.12.1
+  - NPM_VERSION=8.19.2
+  - HUGO_ENV=production
+  - HUGO_ENABLEGITINFO=true
+  preview_output_directory: public
   install_dependencies_command: npm install
-  preview_docker_image: forestryio/node:12
+  preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: npm run develop
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
