@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: data/zh-tw
-  label: ZH
+  label: 中文版
   create: all
   match: "**/*"
 upload_dir: uploads
