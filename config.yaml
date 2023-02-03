@@ -18,11 +18,7 @@ languages:
     weight: "1"
   en:
     languageName: English
-<<<<<<< HEAD
     weight: 2
-  # bn:
-  #   languageName: বাংলা
-  #   weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 DefaultContentLanguage: zh
