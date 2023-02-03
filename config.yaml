@@ -13,13 +13,13 @@ module:
   - source: "./node_modules/katex/dist/fonts"
     target: static/fonts
 languages:
-  zh-tw:
+  zh:
     languageName: 中文
     weight: "1"
   en:
     languageName: English
     weight: "2"
-DefaultContentLanguage: zh-tw
+DefaultContentLanguage: zh
 markup:
   goldmark:
     renderer:
