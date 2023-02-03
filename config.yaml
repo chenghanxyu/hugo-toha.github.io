@@ -24,8 +24,6 @@ languages:
 DefaultContentLanguage: zh
 
 # Allow raw html in markdown file
-    weight: "2"
-DefaultContentLanguage: zh
 markup:
   goldmark:
     renderer:
@@ -107,10 +105,6 @@ params:
           countryCode: tw
 
     # Enable this to use `embed-pdf` shortcode.
-      - languageCode: en
-        countryCode: us
-      - languageCode: zh
-        countryCode: tw
     embedpdf:
       enable: false
     flowchart:
