@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
+- type: directory
+  path: content
+  label: 文章
+  create: all
+  match: "**/*"
 - type: document
   path: config.yaml
   label: 全域設定
