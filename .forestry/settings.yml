@@ -1,0 +1,43 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: static/admin
+webhook_url: 
+sections:
+- type: directory
+  path: content
+  label: 文章
+  create: all
+  match: "**/*"
+- type: document
+  path: config.yaml
+  label: 全域設定
+- type: directory
+  path: data/zh-tw
+  label: 中文版
+  create: all
+  match: "**/*"
+- type: directory
+  path: data/en
+  label: 英文版
+  create: all
+  match: "**/*"
+upload_dir: uploads
+public_path: "/static"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - NPM_VERSION=8.19.2
+  - NODE_VERSION=v18.12.1
+  - HUGO_VERSION=0.109.0
+  - HUGO_ENV=production
+  - HUGO_ENABLEGITINFO=true
+  preview_output_directory: public
+  install_dependencies_command: npm install
+  preview_docker_image: forestryio/hugo:node16
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo mod tidy && hugo mod npm pack && npm install && hugo
+    server --gc --minify --enableGitInfo
