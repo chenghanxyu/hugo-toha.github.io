@@ -79,7 +79,7 @@ params:
       enabled: true
       services:
         google:
-          id: G-H4LBG7NDFZ
+          id: G-YKW7BNEX9Q
     support:
       enable: false
       services:
