@@ -34,3 +34,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- content/protflio/cpas/電商轉換型廣告.md
