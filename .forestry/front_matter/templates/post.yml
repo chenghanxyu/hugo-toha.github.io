@@ -35,4 +35,5 @@ fields:
   name: categories
   label: categories
 pages:
+- content/protflio/cpas/e-commerce-conversion-ads.md
 - content/protflio/cpas/index.md
