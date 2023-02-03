@@ -4,9 +4,18 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: config.yaml
+  label: 全域設定
+  match: "**/*"
 - type: directory
   path: data/zh-tw
   label: 中文版
+  create: all
+  match: "**/*"
+- type: directory
+  path: data/en
+  label: 英文版
   create: all
   match: "**/*"
 upload_dir: uploads
