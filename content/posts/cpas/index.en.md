@@ -6,11 +6,11 @@ description: Using Facebook, Google Ads and other advertisements to assist the e
   is nearly 25.
 menu:
   sidebar:
-    name: ''
-    identifier: ''
-    weight: 
-tags: []
-categories: []
-
+    name: E-commerce Conversion Ads
+    identifier: cpas
+    weight: 40
+hero: boat.jpg
+mermaid: true
 ---
+
 Using Facebook, Google Ads and other advertisements to assist the e-commerce department to promote products and achieve conversion revenue, the highest ROAS is nearly 25.
