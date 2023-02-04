@@ -2,6 +2,7 @@
 baseURL: https://resume.yuslife.cc
 languageCode: zh-tw
 title: 余承翰 Hank Yu
+
 module:
   imports:
   - path: github.com/chenghanxyu/toha/v4
@@ -21,7 +22,7 @@ languages:
     weight: "2"
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
-DefaultContentLanguage: zh-tw
+# DefaultContentLanguage: zh-tw
 
 # Allow raw html in markdown file
 markup:
@@ -99,10 +100,10 @@ params:
     flags:
       enable: true
       flagOverwrites:
-        - languageCode: en
-          countryCode: us
         - languageCode: zh-tw
           countryCode: tw
+        - languageCode: en
+          countryCode: us
 
     # Enable this to use `embed-pdf` shortcode.
     embedpdf:
