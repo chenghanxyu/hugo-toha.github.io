@@ -66,7 +66,7 @@ params:
     portfolio:
       enable: true
     blog:
-      enable: false
+      enable: true
       shareButtons:
         facebook: true
         twitter: true
