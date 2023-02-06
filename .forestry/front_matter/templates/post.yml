@@ -34,6 +34,3 @@ fields:
 - type: list
   name: categories
   label: categories
-pages:
-- content/protflio/cpas/index.en.md
-- content/protflio/cpas/index.zh-tw.md
