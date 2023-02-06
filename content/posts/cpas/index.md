@@ -17,4 +17,4 @@ mermaid: true
 
 透過彙整過去數據與業績目標，並搭配銷售季節與活動，規劃年度個月份預算內容。
 
-![](/v1675663383/cpas-01_qeryie.jpg)
+![電商廣宣預算規劃與追蹤，機敏資訊已遮蔽。](https://res.cloudinary.com/dzan8w00f/image/upload/v1675663383/cpas-01_qeryie.jpg "電商廣宣預算規劃與追蹤，機敏資訊已遮蔽。")
