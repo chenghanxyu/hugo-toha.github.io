@@ -2,6 +2,8 @@
 baseURL: https://resume.yuslife.cc
 languageCode: zh-tw
 title: 余承翰 Hank Yu
+staticDir:
+- static
 
 module:
   imports:
