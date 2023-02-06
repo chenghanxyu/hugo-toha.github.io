@@ -34,3 +34,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- content/posts/enrollment/實體活動宣傳招生.md
